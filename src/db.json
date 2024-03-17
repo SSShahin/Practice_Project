@@ -1,0 +1,79 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "name": "shahin",
+      "email": "shahin@gmail.com",
+      "mobile": 7498579557,
+      "city": "Dhule"
+    },
+    {
+      "id": "2",
+      "name": "Riyana",
+      "email": "riyana@gmail.com",
+      "mobile": 9858657521,
+      "city": "Thane"
+    },
+    {
+      "id": "3",
+      "name": "Simran",
+      "email": "simran@gmail.com",
+      "mobile": 8898756345,
+      "city": "Surat"
+    },
+    {
+      "id": "4",
+      "name": "Neha",
+      "email": "neha@gmail.com",
+      "mobile": 8785958684,
+      "city": "Pune"
+    },
+    {
+      "id": "5",
+      "name": "Heena",
+      "email": "heena@gmail.com",
+      "mobile": 9989562378,
+      "city": "Kochi"
+    },
+    {
+      "id": "7",
+      "name": "shahin",
+      "email": "shahinshabbir@gmail.com",
+      "mobile": 465454645465,
+      "city": "pune"
+    }
+  ],
+  "signup": [
+    {
+      "id": "543b",
+      "name": "shahin",
+      "email": "shahinpinjari@gmail.com",
+      "mobile": 7498579551,
+      "password": "Shahin@1998"
+    },
+    {
+      "id": "dcea",
+      "name": "tina",
+      "email": "tina@gmail.com",
+      "mobile": 8956531538,
+      "password": "tina@1998"
+    },
+    {
+      "id": "cb87",
+      "name": "shahin",
+      "email": "shahinshabbir@gmail.com",
+      "mobile": 465454645465,
+      "password": "nsdl123"
+    }
+  ],
+  "comments": [
+    {
+      "id": "1",
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
